@@ -1,0 +1,17 @@
+{
+  "name": "jano",
+  "version": "2.1.0",
+  "description": "Hyper staff",
+  "main": "jano.js",
+  "scripts": {
+    "start": "node jano.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "express": "^4.17.1",
+    "ytdl-core": "^0.29.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
