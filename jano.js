@@ -1,6 +1,6 @@
 
 const Discord = require("discord.js");
-const myid = ['id xot364018196']
+const myid = ['749966115609772162']
 const prefix = ["$"];
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
@@ -4819,7 +4819,7 @@ jano200.on("message", message => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("ODA1ODU0NDkwMzA5ODIwNDg3.YBkeog.CKqdWkyGrNw-4bH3BO0XujZaxXU");
 jano2.login("");
 jano3.login("");
 jano4.login("");
