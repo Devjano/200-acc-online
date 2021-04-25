@@ -3584,7 +3584,7 @@ jano.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3603,7 +3603,7 @@ jano2.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3622,7 +3622,7 @@ jano3.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3660,7 +3660,7 @@ jano5.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3679,7 +3679,7 @@ jano6.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3698,7 +3698,7 @@ jano7.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3736,7 +3736,7 @@ jano9.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3755,7 +3755,7 @@ jano10.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3774,7 +3774,7 @@ jano11.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3793,7 +3793,7 @@ jano12.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3812,7 +3812,7 @@ jano13.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3831,7 +3831,7 @@ jano14.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3850,7 +3850,7 @@ jano15.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3869,7 +3869,7 @@ jano16.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3888,7 +3888,7 @@ jano17.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3900,6 +3900,7 @@ jano17.on("ready", () => {
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming ////////
 
 jano18.on("ready", () => {
   console.log(
@@ -3907,7 +3908,7 @@ jano18.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3918,7 +3919,7 @@ jano18.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano19.on("ready", () => {
   console.log(
@@ -3926,7 +3927,7 @@ jano19.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3937,7 +3938,7 @@ jano19.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano20.on("ready", () => {
   console.log(
@@ -3945,7 +3946,7 @@ jano20.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3956,7 +3957,7 @@ jano20.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano21.on("ready", () => {
   console.log(
@@ -3964,7 +3965,7 @@ jano21.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3975,7 +3976,7 @@ jano21.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano22.on("ready", () => {
   console.log(
@@ -3983,7 +3984,7 @@ jano22.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -3994,7 +3995,7 @@ jano22.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano23.on("ready", () => {
   console.log(
@@ -4002,7 +4003,7 @@ jano23.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4013,7 +4014,7 @@ jano23.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano24.on("ready", () => {
   console.log(
@@ -4021,7 +4022,7 @@ jano24.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4032,7 +4033,7 @@ jano24.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano25.on("ready", () => {
   console.log(
@@ -4040,7 +4041,7 @@ jano25.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4051,7 +4052,7 @@ jano25.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano26.on("ready", () => {
   console.log(
@@ -4059,7 +4060,7 @@ jano26.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4070,7 +4071,7 @@ jano26.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano27.on("ready", () => {
   console.log(
@@ -4078,7 +4079,7 @@ jano27.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4089,7 +4090,7 @@ jano27.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano28.on("ready", () => {
   console.log(
@@ -4097,7 +4098,7 @@ jano28.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4108,7 +4109,7 @@ jano28.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano29.on("ready", () => {
   console.log(
@@ -4116,7 +4117,7 @@ jano29.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4127,7 +4128,7 @@ jano29.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano30.on("ready", () => {
   console.log(
@@ -4135,7 +4136,7 @@ jano30.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4146,7 +4147,7 @@ jano30.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano31.on("ready", () => {
   console.log(
@@ -4154,7 +4155,7 @@ jano31.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4165,7 +4166,7 @@ jano31.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano32.on("ready", () => {
   console.log(
@@ -4173,7 +4174,7 @@ jano32.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4184,7 +4185,7 @@ jano32.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano33.on("ready", () => {
   console.log(
@@ -4192,7 +4193,7 @@ jano33.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4203,7 +4204,7 @@ jano33.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano34.on("ready", () => {
   console.log(
@@ -4211,7 +4212,7 @@ jano34.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4222,7 +4223,7 @@ jano34.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano35.on("ready", () => {
   console.log(
@@ -4230,7 +4231,7 @@ jano35.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4241,7 +4242,7 @@ jano35.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano36.on("ready", () => {
   console.log(
@@ -4249,7 +4250,7 @@ jano36.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4260,7 +4261,7 @@ jano36.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano37.on("ready", () => {
   console.log(
@@ -4268,7 +4269,7 @@ jano37.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4279,7 +4280,7 @@ jano37.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano38.on("ready", () => {
   console.log(
@@ -4287,7 +4288,7 @@ jano38.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4298,7 +4299,7 @@ jano38.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano39.on("ready", () => {
   console.log(
@@ -4306,7 +4307,26 @@ jano39.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    jano39.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
+
+jano40.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4317,7 +4337,7 @@ jano39.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano41.on("ready", () => {
   console.log(
@@ -4325,7 +4345,7 @@ jano41.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4336,7 +4356,7 @@ jano41.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano42.on("ready", () => {
   console.log(
@@ -4344,7 +4364,7 @@ jano42.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4355,7 +4375,7 @@ jano42.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano43.on("ready", () => {
   console.log(
@@ -4363,7 +4383,7 @@ jano43.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4374,7 +4394,7 @@ jano43.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano44.on("ready", () => {
   console.log(
@@ -4382,7 +4402,7 @@ jano44.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4393,7 +4413,7 @@ jano44.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano45.on("ready", () => {
   console.log(
@@ -4401,26 +4421,7 @@ jano45.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano45.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4431,7 +4432,7 @@ jano45.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano46.on("ready", () => {
   console.log(
@@ -4439,7 +4440,7 @@ jano46.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4450,7 +4451,7 @@ jano46.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano47.on("ready", () => {
   console.log(
@@ -4458,7 +4459,7 @@ jano47.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4469,7 +4470,7 @@ jano47.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano48.on("ready", () => {
   console.log(
@@ -4477,7 +4478,7 @@ jano48.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4488,7 +4489,7 @@ jano48.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano49.on("ready", () => {
   console.log(
@@ -4496,26 +4497,7 @@ jano49.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano49.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4526,7 +4508,7 @@ jano49.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano50.on("ready", () => {
   console.log(
@@ -4534,7 +4516,7 @@ jano50.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4545,7 +4527,7 @@ jano50.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano51.on("ready", () => {
   console.log(
@@ -4553,7 +4535,26 @@ jano51.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    jano51.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
+
+jano52.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4564,7 +4565,7 @@ jano51.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano53.on("ready", () => {
   console.log(
@@ -4572,26 +4573,7 @@ jano53.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano53.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4602,7 +4584,7 @@ jano53.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano54.on("ready", () => {
   console.log(
@@ -4610,7 +4592,7 @@ jano54.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4621,7 +4603,7 @@ jano54.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano55.on("ready", () => {
   console.log(
@@ -4629,7 +4611,7 @@ jano55.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4640,7 +4622,7 @@ jano55.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano56.on("ready", () => {
   console.log(
@@ -4648,7 +4630,7 @@ jano56.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4659,7 +4641,7 @@ jano56.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano57.on("ready", () => {
   console.log(
@@ -4667,7 +4649,7 @@ jano57.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4678,7 +4660,7 @@ jano57.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano58.on("ready", () => {
   console.log(
@@ -4686,7 +4668,7 @@ jano58.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4697,15 +4679,14 @@ jano58.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
-
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 jano59.on("ready", () => {
   console.log(
     `Online In Servers`
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4716,7 +4697,7 @@ jano59.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano60.on("ready", () => {
   console.log(
@@ -4724,7 +4705,7 @@ jano60.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4735,7 +4716,7 @@ jano60.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano61.on("ready", () => {
   console.log(
@@ -4743,7 +4724,7 @@ jano61.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4754,7 +4735,7 @@ jano61.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano62.on("ready", () => {
   console.log(
@@ -4762,7 +4743,7 @@ jano62.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4773,7 +4754,7 @@ jano62.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano63.on("ready", () => {
   console.log(
@@ -4781,7 +4762,7 @@ jano63.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4792,7 +4773,7 @@ jano63.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano64.on("ready", () => {
   console.log(
@@ -4800,7 +4781,7 @@ jano64.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4811,7 +4792,7 @@ jano64.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano65.on("ready", () => {
   console.log(
@@ -4819,7 +4800,7 @@ jano65.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4830,7 +4811,7 @@ jano65.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano66.on("ready", () => {
   console.log(
@@ -4838,7 +4819,7 @@ jano66.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4849,7 +4830,7 @@ jano66.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano67.on("ready", () => {
   console.log(
@@ -4857,7 +4838,7 @@ jano67.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4868,7 +4849,7 @@ jano67.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano68.on("ready", () => {
   console.log(
@@ -4876,7 +4857,7 @@ jano68.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4887,7 +4868,7 @@ jano68.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano69.on("ready", () => {
   console.log(
@@ -4895,7 +4876,7 @@ jano69.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4906,7 +4887,7 @@ jano69.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano70.on("ready", () => {
   console.log(
@@ -4914,7 +4895,7 @@ jano70.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4925,7 +4906,7 @@ jano70.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano71.on("ready", () => {
   console.log(
@@ -4933,7 +4914,7 @@ jano71.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4944,7 +4925,7 @@ jano71.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano72.on("ready", () => {
   console.log(
@@ -4952,7 +4933,7 @@ jano72.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4963,7 +4944,7 @@ jano72.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano73.on("ready", () => {
   console.log(
@@ -4971,7 +4952,7 @@ jano73.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -4982,7 +4963,7 @@ jano73.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano74.on("ready", () => {
   console.log(
@@ -4990,7 +4971,7 @@ jano74.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5001,7 +4982,7 @@ jano74.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano75.on("ready", () => {
   console.log(
@@ -5009,7 +4990,7 @@ jano75.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5020,7 +5001,7 @@ jano75.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano76.on("ready", () => {
   console.log(
@@ -5028,7 +5009,7 @@ jano76.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5039,7 +5020,7 @@ jano76.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano77.on("ready", () => {
   console.log(
@@ -5047,7 +5028,7 @@ jano77.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5058,7 +5039,7 @@ jano77.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano78.on("ready", () => {
   console.log(
@@ -5066,7 +5047,7 @@ jano78.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5077,7 +5058,7 @@ jano78.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano79.on("ready", () => {
   console.log(
@@ -5085,7 +5066,7 @@ jano79.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5096,7 +5077,7 @@ jano79.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano80.on("ready", () => {
   console.log(
@@ -5104,7 +5085,7 @@ jano80.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5115,7 +5096,7 @@ jano80.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano81.on("ready", () => {
   console.log(
@@ -5123,7 +5104,7 @@ jano81.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5134,7 +5115,7 @@ jano81.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano82.on("ready", () => {
   console.log(
@@ -5142,7 +5123,7 @@ jano82.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5153,7 +5134,7 @@ jano82.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano83.on("ready", () => {
   console.log(
@@ -5161,7 +5142,7 @@ jano83.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5172,7 +5153,7 @@ jano83.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano84.on("ready", () => {
   console.log(
@@ -5180,7 +5161,7 @@ jano84.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5191,7 +5172,7 @@ jano84.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano85.on("ready", () => {
   console.log(
@@ -5199,7 +5180,7 @@ jano85.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5210,7 +5191,7 @@ jano85.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano86.on("ready", () => {
   console.log(
@@ -5218,7 +5199,7 @@ jano86.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5229,7 +5210,7 @@ jano86.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano87.on("ready", () => {
   console.log(
@@ -5237,7 +5218,7 @@ jano87.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5248,7 +5229,7 @@ jano87.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano88.on("ready", () => {
   console.log(
@@ -5256,7 +5237,7 @@ jano88.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5267,7 +5248,7 @@ jano88.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano89.on("ready", () => {
   console.log(
@@ -5275,7 +5256,7 @@ jano89.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5286,7 +5267,7 @@ jano89.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano90.on("ready", () => {
   console.log(
@@ -5294,7 +5275,7 @@ jano90.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5305,7 +5286,7 @@ jano90.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano91.on("ready", () => {
   console.log(
@@ -5313,7 +5294,7 @@ jano91.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5324,7 +5305,7 @@ jano91.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano92.on("ready", () => {
   console.log(
@@ -5332,7 +5313,7 @@ jano92.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5343,7 +5324,7 @@ jano92.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano93.on("ready", () => {
   console.log(
@@ -5351,7 +5332,7 @@ jano93.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5362,7 +5343,7 @@ jano93.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano94.on("ready", () => {
   console.log(
@@ -5370,7 +5351,7 @@ jano94.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5381,7 +5362,7 @@ jano94.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano95.on("ready", () => {
   console.log(
@@ -5389,7 +5370,7 @@ jano95.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5400,7 +5381,7 @@ jano95.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano96.on("ready", () => {
   console.log(
@@ -5408,7 +5389,7 @@ jano96.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5419,7 +5400,7 @@ jano96.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano97.on("ready", () => {
   console.log(
@@ -5427,7 +5408,7 @@ jano97.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5438,7 +5419,7 @@ jano97.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano98.on("ready", () => {
   console.log(
@@ -5446,7 +5427,7 @@ jano98.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5457,7 +5438,7 @@ jano98.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano99.on("ready", () => {
   console.log(
@@ -5465,7 +5446,7 @@ jano99.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5476,7 +5457,7 @@ jano99.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming //////////////// playing or dnd  streaming ////////
 
 jano100.on("ready", () => {
   console.log(
@@ -5484,7 +5465,7 @@ jano100.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I can’t be destroyed because I have Allah with me❤`,
 
   ];
   setInterval(function() {
@@ -5495,1900 +5476,7 @@ jano100.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
 
-jano101.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano101.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano102.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano102.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano103.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano103.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano104.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano104.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano105.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano105.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano106.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano106.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano107.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano107.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano108.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano108.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano109.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano109.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano110.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano110.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano111.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano111.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano112.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano112.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano113.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano113.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano114.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano114.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano115.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano115.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano116.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano116.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano117.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano117.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano118.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano118.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano119.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano119.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano120.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano120.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano121.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano121.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano122.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano122.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano123.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano123.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano124.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano124.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano125.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano125.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano126.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano126.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano127.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano127.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano128.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano128.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano129.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano129.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano130.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano130.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano131.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano131.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano132.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano132.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano133.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano133.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano134.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano134.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano135.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano135.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano136.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano136.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano137.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano137.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano138.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano138.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano139.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano139.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano140.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano140.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano141.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano141.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano142.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano142.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano143.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano143.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano144.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano144.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano145.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano145.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano146.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano146.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano147.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano147.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano148.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano148.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano149.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano149.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano150.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano150.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano151.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano151.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano152.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano152.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano153.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano153.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano154.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano154.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano155.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano155.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano156.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano156.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano157.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano157.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano158.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano158.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano159.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano159.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano160.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano160.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano161.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano161.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano162.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano162.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano163.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano163.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano163.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano163.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano164.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano164.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano165.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano165.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano166.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano166.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano167.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano167.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano168.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano168.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano169.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano169.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano170.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano170.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano171.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano171.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano172.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano172.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano173.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano173.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano174.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano174.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano175.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano175.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano176.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano176.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano177.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano177.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano178.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano178.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano179.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano179.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano180.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano180.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano181.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano182.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano183.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano184.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano185.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano185.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano186.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano186.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano187.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano187.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano188.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano188.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano189.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano189.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano190.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano190.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano191.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano191.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano192.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano192.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano193.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano193.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano194.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano194.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano195.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano195.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano196.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano196.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano197.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano197.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano198.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano198.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano199.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano199.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});//////// playing or dnd  streaming ////////
-
-jano200.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano200.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
 
 //////////////// tokn lera da bne 
 
