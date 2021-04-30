@@ -1,29 +1,17 @@
 {
-  "name": "jANO",
-  "version": "0.0.1",
-  "description": "acc onlin",
+  "name": "jano",
+  "version": "2.1.0",
+  "description": "Hyper staff",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
   },
   "dependencies": {
-    "fastify": "^3.14.1",
-    "fastify-formbody": "^5.0.0",
-    "fastify-static": "^4.0.0",
-    "handlebars": "^4.7.7",
-    "point-of-view": "^4.14.0",
-    "discord.js": "^12.5.2"
+    "discord.js": "11.4.2",
+    "express": "^4.17.1",
+    "ytdl-core": "^0.29.0"
   },
   "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-node"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+    "node": "8.x"
+  }
 }
