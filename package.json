@@ -1,15 +1,28 @@
 {
-  "version": "2.1.0",
-  "main": "jano.js",
+  "version": "0.0.1",
+  "main": "node.js",
   "scripts": {
     "start": "node jano.js"
   },
   "dependencies": {
-    "discord.js": "11.4.2",
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
     "express": "^4.17.1",
-    "ytdl-core": "^0.29.0"
+    "node-cmd": "^3.0.0",
+    "canvas": "^2.6.1",
+    "request": "^2.88.2"
   },
   "engines": {
     "node": "8.x"
-  }
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
