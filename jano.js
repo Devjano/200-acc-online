@@ -1,4 +1,16 @@
-
+const express = require("express");
+const app = express();
+const JANO = [
+];
+app.use(express.static("public"));
+app.get("/", (request, response) => {
+  response.sendFile(__dirname + "/views/index.html");
+});
+app.get("/JANO", (request, response) => {
+  response.json(JANO);
+});
+const Discord = require("discord.js"); 
+console.log("online");
 const Discord = require("discord.js"); 
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
