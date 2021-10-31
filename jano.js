@@ -109,7 +109,7 @@ const jano106 = new Discord.Client();
 const jano107 = new Discord.Client();
 const jano108 = new Discord.Client();
 const jano109 = new Discord.Client();
-const jano110= new Discord.Client();
+const jano110 = new Discord.Client();
 const jano111 = new Discord.Client();
 const jano112 = new Discord.Client();
 const jano113 = new Discord.Client();
@@ -201,14 +201,11 @@ const jano198 = new Discord.Client();
 const jano199 = new Discord.Client();
 const jano200 = new Discord.Client();
 
-
-
-
 ////////
 jano.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -225,7 +222,7 @@ jano.on("message", message => {
 jano2.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -241,7 +238,7 @@ jano2.on("message", message => {
 jano3.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -257,7 +254,7 @@ jano3.on("message", message => {
 jano4.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -273,7 +270,7 @@ jano4.on("message", message => {
 jano5.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -290,7 +287,7 @@ jano5.on("message", message => {
 jano6.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -307,7 +304,7 @@ jano6.on("message", message => {
 jano7.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -323,7 +320,7 @@ jano7.on("message", message => {
 jano8.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -340,7 +337,7 @@ jano8.on("message", message => {
 jano9.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -356,7 +353,7 @@ jano9.on("message", message => {
 jano10.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -372,7 +369,7 @@ jano10.on("message", message => {
 jano11.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -388,7 +385,7 @@ jano11.on("message", message => {
 jano12.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -404,7 +401,7 @@ jano12.on("message", message => {
 jano13.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -420,7 +417,7 @@ jano13.on("message", message => {
 jano14.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -437,7 +434,7 @@ jano14.on("message", message => {
 jano15.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -453,7 +450,7 @@ jano15.on("message", message => {
 jano16.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -469,7 +466,7 @@ jano16.on("message", message => {
 jano17.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -485,7 +482,7 @@ jano17.on("message", message => {
 jano18.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -502,7 +499,7 @@ jano18.on("message", message => {
 jano19.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -518,7 +515,7 @@ jano19.on("message", message => {
 jano20.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -534,7 +531,7 @@ jano20.on("message", message => {
 jano21.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -550,7 +547,7 @@ jano21.on("message", message => {
 jano22.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -566,7 +563,7 @@ jano22.on("message", message => {
 jano23.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -582,7 +579,7 @@ jano23.on("message", message => {
 jano24.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -599,7 +596,7 @@ jano24.on("message", message => {
 jano25.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -615,7 +612,7 @@ jano25.on("message", message => {
 jano26.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -631,7 +628,7 @@ jano26.on("message", message => {
 jano27.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -647,7 +644,7 @@ jano27.on("message", message => {
 jano28.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -664,7 +661,7 @@ jano28.on("message", message => {
 jano29.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -680,7 +677,7 @@ jano29.on("message", message => {
 jano30.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -696,7 +693,7 @@ jano30.on("message", message => {
 jano31.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -712,7 +709,7 @@ jano31.on("message", message => {
 jano32.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -729,7 +726,7 @@ jano32.on("message", message => {
 jano33.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -745,7 +742,7 @@ jano33.on("message", message => {
 jano34.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -761,7 +758,7 @@ jano34.on("message", message => {
 jano35.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -777,7 +774,7 @@ jano35.on("message", message => {
 jano36.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -793,7 +790,7 @@ jano36.on("message", message => {
 jano37.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -809,7 +806,7 @@ jano37.on("message", message => {
 jano38.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -825,7 +822,7 @@ jano38.on("message", message => {
 jano39.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -842,7 +839,7 @@ jano39.on("message", message => {
 jano40.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -858,7 +855,7 @@ jano40.on("message", message => {
 jano41.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -874,7 +871,7 @@ jano41.on("message", message => {
 jano42.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -890,7 +887,7 @@ jano42.on("message", message => {
 jano43.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -907,7 +904,7 @@ jano43.on("message", message => {
 jano44.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -923,7 +920,7 @@ jano44.on("message", message => {
 jano45.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -939,7 +936,7 @@ jano45.on("message", message => {
 jano46.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -955,7 +952,7 @@ jano46.on("message", message => {
 jano47.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -971,7 +968,7 @@ jano47.on("message", message => {
 jano48.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -988,7 +985,7 @@ jano48.on("message", message => {
 jano49.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1004,7 +1001,7 @@ jano49.on("message", message => {
 jano50.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1020,7 +1017,7 @@ jano50.on("message", message => {
 jano51.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1037,7 +1034,7 @@ jano51.on("message", message => {
 jano52.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1053,7 +1050,7 @@ jano52.on("message", message => {
 jano53.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1069,7 +1066,7 @@ jano53.on("message", message => {
 jano54.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1085,7 +1082,7 @@ jano54.on("message", message => {
 jano55.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1101,7 +1098,7 @@ jano55.on("message", message => {
 jano56.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1118,7 +1115,7 @@ jano56.on("message", message => {
 jano57.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1134,7 +1131,7 @@ jano57.on("message", message => {
 jano58.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1151,7 +1148,7 @@ jano58.on("message", message => {
 jano59.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1167,7 +1164,7 @@ jano59.on("message", message => {
 jano60.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1183,7 +1180,7 @@ jano60.on("message", message => {
 jano61.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1200,7 +1197,7 @@ jano61.on("message", message => {
 jano62.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1216,7 +1213,7 @@ jano62.on("message", message => {
 jano63.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1232,7 +1229,7 @@ jano63.on("message", message => {
 jano64.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1248,7 +1245,7 @@ jano64.on("message", message => {
 jano65.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1264,7 +1261,7 @@ jano65.on("message", message => {
 jano66.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1281,7 +1278,7 @@ jano66.on("message", message => {
 jano67.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1297,7 +1294,7 @@ jano67.on("message", message => {
 jano68.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1313,7 +1310,7 @@ jano68.on("message", message => {
 jano69.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1330,7 +1327,7 @@ jano69.on("message", message => {
 jano70.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1346,7 +1343,7 @@ jano70.on("message", message => {
 jano71.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1362,7 +1359,7 @@ jano71.on("message", message => {
 jano72.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1378,7 +1375,7 @@ jano72.on("message", message => {
 jano73.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1394,7 +1391,7 @@ jano73.on("message", message => {
 jano74.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1410,7 +1407,7 @@ jano74.on("message", message => {
 jano75.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1426,7 +1423,7 @@ jano75.on("message", message => {
 jano76.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1442,7 +1439,7 @@ jano76.on("message", message => {
 jano77.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1458,7 +1455,7 @@ jano77.on("message", message => {
 jano78.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1475,7 +1472,7 @@ jano78.on("message", message => {
 jano79.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1491,7 +1488,7 @@ jano79.on("message", message => {
 jano80.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1507,7 +1504,7 @@ jano80.on("message", message => {
 jano81.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1524,7 +1521,7 @@ jano81.on("message", message => {
 jano82.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1540,7 +1537,7 @@ jano82.on("message", message => {
 jano83.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1556,7 +1553,7 @@ jano83.on("message", message => {
 jano84.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1572,7 +1569,7 @@ jano84.on("message", message => {
 jano85.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1588,7 +1585,7 @@ jano85.on("message", message => {
 jano86.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1605,7 +1602,7 @@ jano86.on("message", message => {
 jano87.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1621,7 +1618,7 @@ jano87.on("message", message => {
 jano88.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1638,7 +1635,7 @@ jano88.on("message", message => {
 jano89.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1654,7 +1651,7 @@ jano89.on("message", message => {
 jano90.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1670,7 +1667,7 @@ jano90.on("message", message => {
 jano91.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1686,7 +1683,7 @@ jano91.on("message", message => {
 jano92.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1702,7 +1699,7 @@ jano92.on("message", message => {
 jano93.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1719,7 +1716,7 @@ jano93.on("message", message => {
 jano94.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1736,7 +1733,7 @@ jano94.on("message", message => {
 jano95.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1752,7 +1749,7 @@ jano95.on("message", message => {
 jano96.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1768,7 +1765,7 @@ jano96.on("message", message => {
 jano97.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1784,7 +1781,7 @@ jano97.on("message", message => {
 jano98.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1800,7 +1797,7 @@ jano98.on("message", message => {
 jano99.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1817,7 +1814,7 @@ jano99.on("message", message => {
 jano100.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1833,7 +1830,7 @@ jano100.on("message", message => {
 jano101.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1849,7 +1846,7 @@ jano101.on("message", message => {
 jano102.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1865,7 +1862,7 @@ jano102.on("message", message => {
 jano103.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1879,11 +1876,10 @@ jano103.on("message", message => {
   }
 });
 
-
 jano104.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1899,7 +1895,7 @@ jano104.on("message", message => {
 jano105.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1916,7 +1912,7 @@ jano105.on("message", message => {
 jano106.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1932,7 +1928,7 @@ jano106.on("message", message => {
 jano107.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1948,7 +1944,7 @@ jano107.on("message", message => {
 jano108.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1964,7 +1960,7 @@ jano108.on("message", message => {
 jano109.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1980,7 +1976,7 @@ jano109.on("message", message => {
 jano110.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -1997,7 +1993,7 @@ jano110.on("message", message => {
 jano111.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2013,7 +2009,7 @@ jano111.on("message", message => {
 jano112.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2030,7 +2026,7 @@ jano112.on("message", message => {
 jano113.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2046,7 +2042,7 @@ jano113.on("message", message => {
 jano114.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2062,7 +2058,7 @@ jano114.on("message", message => {
 jano115.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2078,7 +2074,7 @@ jano115.on("message", message => {
 jano116.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2094,7 +2090,7 @@ jano116.on("message", message => {
 jano117.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2110,7 +2106,7 @@ jano117.on("message", message => {
 jano118.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2127,7 +2123,7 @@ jano118.on("message", message => {
 jano119.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2143,7 +2139,7 @@ jano119.on("message", message => {
 jano120.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2159,7 +2155,7 @@ jano120.on("message", message => {
 jano121.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2175,7 +2171,7 @@ jano121.on("message", message => {
 jano122.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2191,7 +2187,7 @@ jano122.on("message", message => {
 jano123.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2208,7 +2204,7 @@ jano123.on("message", message => {
 jano124.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2224,7 +2220,7 @@ jano124.on("message", message => {
 jano125.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2240,7 +2236,7 @@ jano125.on("message", message => {
 jano126.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2256,7 +2252,7 @@ jano126.on("message", message => {
 jano127.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2273,7 +2269,7 @@ jano127.on("message", message => {
 jano128.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2289,7 +2285,7 @@ jano128.on("message", message => {
 jano129.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2306,7 +2302,7 @@ jano129.on("message", message => {
 jano130.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2322,7 +2318,7 @@ jano130.on("message", message => {
 jano131.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2338,7 +2334,7 @@ jano131.on("message", message => {
 jano132.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2354,7 +2350,7 @@ jano132.on("message", message => {
 jano133.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2371,7 +2367,7 @@ jano133.on("message", message => {
 jano134.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2387,7 +2383,7 @@ jano134.on("message", message => {
 jano135.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2403,7 +2399,7 @@ jano135.on("message", message => {
 jano136.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2419,7 +2415,7 @@ jano136.on("message", message => {
 jano137.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2436,7 +2432,7 @@ jano137.on("message", message => {
 jano138.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2452,7 +2448,7 @@ jano138.on("message", message => {
 jano139.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2468,7 +2464,7 @@ jano139.on("message", message => {
 jano140.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2484,7 +2480,7 @@ jano140.on("message", message => {
 jano141.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2500,7 +2496,7 @@ jano141.on("message", message => {
 jano142.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2517,7 +2513,7 @@ jano142.on("message", message => {
 jano143.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2533,7 +2529,7 @@ jano143.on("message", message => {
 jano144.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2549,7 +2545,7 @@ jano144.on("message", message => {
 jano145.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2565,7 +2561,7 @@ jano145.on("message", message => {
 jano146.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2581,7 +2577,7 @@ jano146.on("message", message => {
 jano147.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2597,7 +2593,7 @@ jano147.on("message", message => {
 jano148.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2613,7 +2609,7 @@ jano148.on("message", message => {
 jano149.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2630,7 +2626,7 @@ jano149.on("message", message => {
 jano150.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2646,7 +2642,7 @@ jano150.on("message", message => {
 jano151.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2662,7 +2658,7 @@ jano151.on("message", message => {
 jano152.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2678,7 +2674,7 @@ jano152.on("message", message => {
 jano153.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2692,11 +2688,10 @@ jano153.on("message", message => {
   }
 });
 
-
 jano154.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2712,7 +2707,7 @@ jano154.on("message", message => {
 jano155.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2729,7 +2724,7 @@ jano155.on("message", message => {
 jano156.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2745,7 +2740,7 @@ jano156.on("message", message => {
 jano157.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2761,7 +2756,7 @@ jano157.on("message", message => {
 jano158.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2777,7 +2772,7 @@ jano158.on("message", message => {
 jano159.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2793,7 +2788,7 @@ jano159.on("message", message => {
 jano160.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2809,7 +2804,7 @@ jano160.on("message", message => {
 jano161.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2825,7 +2820,7 @@ jano161.on("message", message => {
 jano162.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2841,7 +2836,7 @@ jano162.on("message", message => {
 jano163.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2857,7 +2852,7 @@ jano163.on("message", message => {
 jano164.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2873,7 +2868,7 @@ jano164.on("message", message => {
 jano165.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2889,7 +2884,7 @@ jano165.on("message", message => {
 jano166.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2905,7 +2900,7 @@ jano166.on("message", message => {
 jano167.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2921,7 +2916,7 @@ jano167.on("message", message => {
 jano168.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2937,7 +2932,7 @@ jano168.on("message", message => {
 jano169.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2953,7 +2948,7 @@ jano169.on("message", message => {
 jano170.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2969,7 +2964,7 @@ jano170.on("message", message => {
 jano171.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2985,7 +2980,7 @@ jano171.on("message", message => {
 jano166.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3001,7 +2996,7 @@ jano166.on("message", message => {
 jano167.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3017,7 +3012,7 @@ jano167.on("message", message => {
 jano168.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3033,7 +3028,7 @@ jano168.on("message", message => {
 jano169.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3049,7 +3044,7 @@ jano169.on("message", message => {
 jano170.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3065,7 +3060,7 @@ jano170.on("message", message => {
 jano171.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3081,7 +3076,7 @@ jano171.on("message", message => {
 jano172.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3097,7 +3092,7 @@ jano172.on("message", message => {
 jano173.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3113,7 +3108,7 @@ jano173.on("message", message => {
 jano174.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3129,7 +3124,7 @@ jano174.on("message", message => {
 jano175.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3145,7 +3140,7 @@ jano175.on("message", message => {
 jano176.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3161,7 +3156,7 @@ jano176.on("message", message => {
 jano177.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3177,7 +3172,7 @@ jano177.on("message", message => {
 jano178.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3193,7 +3188,7 @@ jano178.on("message", message => {
 jano179.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3209,7 +3204,7 @@ jano179.on("message", message => {
 jano180.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3225,7 +3220,7 @@ jano180.on("message", message => {
 jano181.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3241,7 +3236,7 @@ jano181.on("message", message => {
 jano182.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3257,7 +3252,7 @@ jano182.on("message", message => {
 jano183.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3273,7 +3268,7 @@ jano183.on("message", message => {
 jano184.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3290,7 +3285,7 @@ jano184.on("message", message => {
 jano185.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3307,7 +3302,7 @@ jano185.on("message", message => {
 jano186.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3324,7 +3319,7 @@ jano186.on("message", message => {
 jano187.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3340,7 +3335,7 @@ jano187.on("message", message => {
 jano188.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3356,7 +3351,7 @@ jano188.on("message", message => {
 jano189.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3373,7 +3368,7 @@ jano189.on("message", message => {
 jano190.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3389,7 +3384,7 @@ jano190.on("message", message => {
 jano191.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3405,7 +3400,7 @@ jano191.on("message", message => {
 jano192.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3421,7 +3416,7 @@ jano192.on("message", message => {
 jano193.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3437,7 +3432,7 @@ jano193.on("message", message => {
 jano194.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3453,7 +3448,7 @@ jano194.on("message", message => {
 jano195.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3470,7 +3465,7 @@ jano195.on("message", message => {
 jano196.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3486,7 +3481,7 @@ jano196.on("message", message => {
 jano197.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3502,7 +3497,7 @@ jano197.on("message", message => {
 jano198.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3519,7 +3514,7 @@ jano198.on("message", message => {
 jano199.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3535,7 +3530,7 @@ jano199.on("message", message => {
 jano200.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3549,859 +3544,588 @@ jano200.on("message", message => {
   }
 });
 
-
 //////// playing or dnd  streaming ////////
 
 jano.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano2.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano2.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano2.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano3.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano3.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano3.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano4.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano4.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano4.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano5.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano5.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano5.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano6.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano6.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano6.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano7.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano7.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano7.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano8.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano8.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano8.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano9.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano9.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano9.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano10.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano10.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano10.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano11.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano11.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano11.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano12.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano12.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano12.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano13.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano13.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano13.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano14.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano14.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano14.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano15.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano15.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano15.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano16.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano16.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano16.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano17.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano17.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano17.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano18.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano18.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano18.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano19.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano19.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano19.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano20.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano20.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano20.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano21.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano21.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano21.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano22.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano22.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano22.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano23.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano23.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano23.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano24.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano24.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano24.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano25.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano25.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano25.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano26.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano26.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano26.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano27.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano27.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano27.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano28.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano28.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano28.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano29.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano29.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano29.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano30.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano30.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano30.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano31.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano31.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano31.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano32.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano32.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano32.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano33.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano33.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano33.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano34.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano34.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano34.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano35.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano35.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano35.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano36.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano36.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano36.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano37.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano37.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano37.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano38.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano38.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano38.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano39.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano39.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano39.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano40.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano40.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano40.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano41.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano41.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano41.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano42.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano42.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano42.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano43.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano43.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano43.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano44.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano44.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano44.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano45.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano45.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano45.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
@@ -4409,57 +4133,39 @@ jano45.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 jano46.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano46.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano46.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano47.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano47.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano47.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano48.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano48.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano48.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
@@ -4467,989 +4173,676 @@ jano48.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 jano49.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano49.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano49.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano50.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano50.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano50.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
-
 jano51.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano51.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano51.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano52.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano52.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano52.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano53.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano53.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano53.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano54.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano54.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano54.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano55.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano55.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano55.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano56.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano56.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano56.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano57.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano57.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano57.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano58.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano58.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano58.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano59.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano59.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano59.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano60.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano60.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano60.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano61.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano61.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano61.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano62.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano62.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano62.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano63.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano63.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano63.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano64.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano64.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano64.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano65.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano65.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano65.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano66.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano66.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano66.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano67.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano67.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano67.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano68.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano68.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano68.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano69.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano69.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano69.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano70.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano70.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano70.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano71.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano71.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano71.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano72.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano72.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano72.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano73.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano73.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano73.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano74.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano74.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano74.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano75.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano75.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano75.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano76.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano76.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano76.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano77.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano77.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano77.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano78.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano78.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano78.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano79.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano79.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano79.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano80.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano80.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano80.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano81.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano81.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano81.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano82.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano82.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano82.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano83.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano83.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano83.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano84.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano84.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano84.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano85.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano85.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano85.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano86.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano86.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano86.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano87.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano87.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano87.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano88.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano88.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano88.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano89.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano89.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano89.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano90.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano90.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano90.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano91.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano91.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano91.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano92.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano92.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano92.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano93.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano93.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano93.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano94.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano94.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano94.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano95.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano95.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano95.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano96.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano96.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano96.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano97.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano97.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano97.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano98.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano98.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano98.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano99.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano99.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano99.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano100.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano100.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano100.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
@@ -5458,570 +4851,390 @@ jano100.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 jano101.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano101.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano101.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano102.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano102.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano102.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano103.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano103.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano103.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano104.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano104.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano104.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano105.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano105.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano105.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano106.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano106.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano106.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano107.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano107.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano107.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano108.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano108.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano108.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano109.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano109.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano109.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano110.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano110.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano110.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano111.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano111.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano111.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano112.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano112.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano112.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano113.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano113.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano113.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano114.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano114.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano114.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano115.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano115.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano115.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano116.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano116.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano116.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano117.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano117.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano117.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano118.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano118.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano118.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano119.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano119.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano119.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano120.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano120.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano121.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano121.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano121.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano122.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano122.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano122.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano123.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano123.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano123.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano124.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano124.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano124.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano125.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano125.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano125.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano126.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano126.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano126.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano127.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano127.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano127.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano128.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano128.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano128.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano129.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano129.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano129.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano130.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano130.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano130.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
@@ -6029,1317 +5242,903 @@ jano130.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 jano131.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano131.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano131.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano132.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano132.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano132.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano133.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano133.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano133.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano134.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano134.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano134.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano135.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano135.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano135.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano136.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano136.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano136.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano137.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano137.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano137.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano138.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano138.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano138.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano139.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano139.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano139.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano140.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano140.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano140.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano141.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano141.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano141.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano142.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano142.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano142.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano143.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano143.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano143.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano144.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano144.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano144.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano145.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano145.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano145.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano146.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano146.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano146.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano147.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano147.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano147.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano148.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano149.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano149.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano150.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano150.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano150.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano151.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano151.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano151.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano152.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano152.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano152.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano153.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano153.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano153.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano154.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano154.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano154.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano155.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano155.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano155.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano156.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano156.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano156.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano157.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano157.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano157.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano158.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano158.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano158.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano159.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano159.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano159.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano160.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano160.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano160.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano161.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano161.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano161.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano162.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano162.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano162.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano163.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano163.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano163.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano164.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano164.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano164.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano165.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano165.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano165.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano166.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano166.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano166.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano167.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano167.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano167.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano168.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano168.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano168.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano169.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano169.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano169.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano170.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano170.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano170.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano171.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano171.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano171.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano172.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano172.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano172.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano173.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano173.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano173.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano174.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano174.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano174.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano175.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano175.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano175.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano176.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano176.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano176.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano177.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano177.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano177.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano178.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano178.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano178.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano179.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano179.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano179.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano180.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano180.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano180.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano181.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano181.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano181.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano182.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano182.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano182.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano183.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano183.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano183.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano184.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano184.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano184.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano185.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano185.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano185.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano186.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano186.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano186.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano187.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano187.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano187.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano188.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano188.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano188.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano189.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano189.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano189.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano190.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano190.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano190.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano191.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano191.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano191.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano192.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano192.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano192.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano193.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano193.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano193.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano194.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano194.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano194.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano195.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano195.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano195.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano196.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano196.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano196.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano197.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano197.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano197.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano198.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano198.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano198.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano199.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano199.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano199.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
 jano200.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `JUST ALLAH`,
-
-  ];
+  console.log(`Online In Servers`);
+  let statuses = [`JUST ALLAH`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano200.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
+    jano200.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
 
-//////////////// tokn lera da bne 
+//////////////// tokn lera da bne
 
 jano.login("");
 jano2.login("");
